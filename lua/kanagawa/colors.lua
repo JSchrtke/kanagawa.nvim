@@ -29,6 +29,8 @@ local palette_colors = {
 
     -- Fg and Comments
     oldWhite      = "#C8C093",
+    fujiWhite0     = "#CEC9AB",
+    fujiWhite1b     = "#D3CDAD",
     fujiWhite     = "#DCD7BA",
     fujiGray      = "#727169",
     springViolet1 = "#938AA9",
