@@ -29,17 +29,22 @@ local palette_colors = {
 
     -- Fg and Comments
     oldWhite      = "#C8C093",
-    fujiWhite0     = "#CEC9AB",
     fujiWhite1b     = "#D3CDAD",
     fujiWhite     = "#DCD7BA",
+    fujiWhite2     = "#EAE4C2",
+    fujiWhite3     = "#F4EECD",
+    fujiWhite4     = "#FFFAE2",
     fujiGray      = "#727169",
     springViolet1 = "#938AA9",
 
     oniViolet     = "#957FB8",
+    oniViolet2     = "#7f64aa",
     crystalBlue   = "#7E9CD8",
+    crystalBlue2   = "#a1b7e3",
     springViolet2 = "#9CABCA",
     springBlue    = "#7FB4CA",
     lightBlue     = "#A3D4D5", -- unused yet
+    lightBlue2     = "#c0e2e2", -- unused yet
     waveAqua2     = "#7AA89F", -- improve lightness: desaturated greenish Aqua
 
     -- waveAqua2  = "#68AD99",
@@ -54,7 +59,9 @@ local palette_colors = {
 
     sakuraPink    = "#D27E99",
     waveRed       = "#E46876",
+    waveRed2       = "#E60008",
     peachRed      = "#FF5D62",
+    peachRed2      = "#E60008",
     surimiOrange  = "#FFA066",
     katanaGray    = "#717C7C",
 }
