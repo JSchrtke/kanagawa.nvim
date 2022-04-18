@@ -51,7 +51,7 @@ function M.load()
     vim.g.colors_name = "kanagawa"
     vim.o.termguicolors = true
 
-    local colors = require("kanagawa.colors").setup()
+    local colors = require("kanagawa.colors").setup(M.config)
     local hlgroups = require("kanagawa.hlgroups").setup(colors)
 
     set_highlights(hlgroups)

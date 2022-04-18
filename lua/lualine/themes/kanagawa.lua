@@ -1,4 +1,5 @@
-local colors = require("kanagawa.colors").setup()
+local config = require("kanagawa").config
+local colors = require("kanagawa.colors").setup(config)
 
 local kanagawa = {}
 
