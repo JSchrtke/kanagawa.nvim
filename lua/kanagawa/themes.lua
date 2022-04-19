@@ -63,12 +63,12 @@ return {
     end,
     light = function(colors)
         return {
-            bg = colors.fujiWhite4,
-            bg_dim = colors.fujiWhite3,
-            bg_dark = colors.fujiWhite2,
-            bg_light0 = colors.fujiWhite2,
+            bg = colors.fujiWhite5,
+            bg_dim = colors.fujiWhite4,
+            bg_dark = colors.fujiWhite3,
+            bg_light0 = colors.fujiWhite4,
             bg_light1 = colors.fujiWhite3,
-            bg_light2 = colors.fujiWhite4,
+            bg_light2 = colors.fujiWhite2,
             bg_light3 = colors.springViolet1,
 
             bg_menu = colors.lightBlue,
@@ -79,27 +79,27 @@ return {
             bg_search = colors.lightBlue,
 
             fg_border = colors.oldWhite,
-            fg_dark = colors.fujiWhite2,
-            fg_reverse = "#ff00ff",
+            fg_dark = colors.sumiInk4,
+            fg_reverse = "#ff00ff", -- TODO not sure where this is actually used, thus the debug pink
 
             fg_comment = colors.fujiGray,
-            fg = colors.sumiInk0,
+            fg = colors.sumiInk4,
 
-            co = colors.surimiOrange,
-            st = colors.springGreen,
-            nu = colors.sakuraPink,
-            id = colors.carpYellow,
+            co = colors.surimiOrange0,
+            st = colors.springGreen0,
+            nu = colors.sakuraPink0,
+            id = colors.carpYellow0,
             fn = colors.waveBlue2,
             sm = colors.oniViolet2,
             kw = colors.oniViolet2,
-            op = colors.boatYellow2,
-            pp = colors.surimiOrange,
-            ty = colors.waveAqua2,
-            sp = colors.springBlue,
+            op = colors.boatYellow0,
+            pp = colors.surimiOrange0,
+            ty = colors.waveAqua3,
+            sp = colors.springBlue0,
             sp2 = colors.waveRed2,
-            sp3 = colors.peachRed2,
-            br = colors.springViolet2,
-            re = colors.boatYellow2,
+            sp3 = colors.peachRed0,
+            br = colors.springViolet2b,
+            re = colors.boatYellow0,
             dep = colors.katanaGray,
 
             diag = {
@@ -110,10 +110,10 @@ return {
             },
 
             diff = {
-                add = colors.winterGreen,
-                delete = colors.winterRed,
-                change = colors.winterBlue,
-                text = colors.winterYellow,
+                add = colors.springGreen1,
+                delete = colors.peachRed1,
+                change = colors.lightBlue2,
+                text = colors.carpYellow,
             },
 
             git = {

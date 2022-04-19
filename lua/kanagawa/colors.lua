@@ -33,7 +33,8 @@ local palette_colors = {
     fujiWhite     = "#DCD7BA",
     fujiWhite2     = "#EAE4C2",
     fujiWhite3     = "#F4EECD",
-    fujiWhite4     = "#FFFAE2",
+    fujiWhite4     = "#fffbe5",
+    fujiWhite5     = "#fffceb",
     fujiGray      = "#727169",
     springViolet1 = "#938AA9",
 
@@ -41,27 +42,37 @@ local palette_colors = {
     oniViolet2     = "#7f64aa",
     crystalBlue   = "#7E9CD8",
     crystalBlue2   = "#a1b7e3",
+    springViolet2b = "#5973a6",
     springViolet2 = "#9CABCA",
+    springBlue0    = "#3e7a93",
     springBlue    = "#7FB4CA",
     lightBlue     = "#A3D4D5", -- unused yet
     lightBlue2     = "#c0e2e2", -- unused yet
     waveAqua2     = "#7AA89F", -- improve lightness: desaturated greenish Aqua
+    waveAqua3     = "#517b73",
 
     -- waveAqua2  = "#68AD99",
     -- waveAqua4  = "#7AA880",
     -- waveAqua5  = "#6CAF95",
     -- waveAqua3  = "#68AD99",
 
+    springGreen0   = "#5d7a38",
     springGreen   = "#98BB6C",
+    springGreen1   = "#c0de9a",
+    boatYellow0   = "#81704b",
     boatYellow1   = "#938056",
     boatYellow2   = "#C0A36E",
+    carpYellow0    = "#946b1e",
     carpYellow    = "#E6C384",
 
+    sakuraPink0    = "#bf4a6f",
     sakuraPink    = "#D27E99",
     waveRed       = "#E46876",
     waveRed2       = "#E60008",
+    peachRed0      = "#E60008",
     peachRed      = "#FF5D62",
-    peachRed2      = "#E60008",
+    peachRed1      = "#ff8084",
+    surimiOrange0  = "#c24a00",
     surimiOrange  = "#FFA066",
     katanaGray    = "#717C7C",
 }
